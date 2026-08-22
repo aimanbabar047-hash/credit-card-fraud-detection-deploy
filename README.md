@@ -64,9 +64,9 @@ The model has been deployed as an interactive Streamlit application.
 - 📊 View fraud probability
 - 🔍 View model prediction
 
-### Live Application
+### 🌐 Live Application
 
-**Coming soon — Streamlit deployment**
+🚀 **[Launch Credit Card Fraud Detection App](https://credit-card-fraud-detection-deploy-mmeh7v94fjh4uur4qmxuae.streamlit.app/)**
 
 ---
 
